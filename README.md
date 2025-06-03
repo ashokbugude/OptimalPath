@@ -1,6 +1,6 @@
-# TigerFreight - Multi-Modal Route Optimization
+# Route Optimization
 
-TigerFreight is a Python-based route optimization tool that finds the most efficient path between cities in India using both road and railway networks. The application uses Google OR-Tools for optimization and Folium for interactive map visualization.
+Python-based route optimization tool that finds the most efficient path between cities in India using both road and railway networks. The application uses Google OR-Tools for optimization and Folium for interactive map visualization.
 
 ## Features
 
