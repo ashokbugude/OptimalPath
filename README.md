@@ -1,6 +1,7 @@
 # Route Optimization
 
 Python-based route optimization tool that finds the most efficient path between cities in India using both road and railway networks. The application uses Google OR-Tools for optimization and Folium for interactive map visualization.
+![image](https://github.com/user-attachments/assets/12f747d3-2758-482b-9a0b-ddb9d5888cdd)
 
 ## Features
 
